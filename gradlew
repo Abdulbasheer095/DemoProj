@@ -40,7 +40,7 @@ warn () {
 die () {
     echo
     echo "$*"
-    echo
+    echo asdfasdf
     exit 1
 }
 
