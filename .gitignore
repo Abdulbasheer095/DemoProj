@@ -3,7 +3,7 @@
 .DS_Store
 bin
 gen
-*.iml
+*.iml dafsasfd
 app/app.iml
 .idea
 build
